@@ -1,2 +1,2 @@
-# dll-send_smtp_email
+# Send SMTP Email using DLL
 DLL to send SMTP emails
