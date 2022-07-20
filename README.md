@@ -17,3 +17,6 @@ DLL to send SMTP emails<br>
 If it success, will return "SUCCESS - Email sent to: 'receiver'".
 If it fails, will return "ERROR - While sending email: 'error'".
 </pre>
+
+### Usage:
+This DLL is currently being used as alert for OpenEdge Progress' Apps
