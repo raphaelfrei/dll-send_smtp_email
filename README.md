@@ -10,7 +10,7 @@ DLL to send SMTP emails<br>
 - SMTPClient | The address of your SMTP server
 - Priority   | 0 -> High / 1 -> Medium / 2 -> Low (None for medium)
 </pre>
-
+  
 ### Output:
 (It always return an string)
 <pre>
